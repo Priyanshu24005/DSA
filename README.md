@@ -32,9 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Priyanshu24005/DSA/tree/master/0242-valid-anagram) |
+| [0796-rotate-string](https://github.com/Priyanshu24005/DSA/tree/master/0796-rotate-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu24005/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Priyanshu24005/DSA/tree/master/0242-valid-anagram) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Priyanshu24005/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
