@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Priyanshu24005/DSA/tree/master/0202-happy-number) |
+| [1492-the-kth-factor-of-n](https://github.com/Priyanshu24005/DSA/tree/master/1492-the-kth-factor-of-n) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24005/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Priyanshu24005/DSA/tree/master/2404-most-frequent-even-element) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Priyanshu24005/DSA/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
