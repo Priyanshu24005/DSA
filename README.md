@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu24005/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0204-count-primes](https://github.com/Priyanshu24005/DSA/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu24005/DSA/tree/master/0485-max-consecutive-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/Priyanshu24005/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu24005/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Priyanshu24005/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Priyanshu24005/DSA/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/Priyanshu24005/DSA/tree/master/1492-the-kth-factor-of-n) |
 ## Two Pointers
 |  |
@@ -64,5 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Priyanshu24005/DSA/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/Priyanshu24005/DSA/tree/master/1492-the-kth-factor-of-n) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Priyanshu24005/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
