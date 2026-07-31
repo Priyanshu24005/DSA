@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Priyanshu24005/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Priyanshu24005/DSA/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/Priyanshu24005/DSA/tree/master/0367-valid-perfect-square) |
 | [1492-the-kth-factor-of-n](https://github.com/Priyanshu24005/DSA/tree/master/1492-the-kth-factor-of-n) |
 ## Two Pointers
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Priyanshu24005/DSA/tree/master/0204-count-primes) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/Priyanshu24005/DSA/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
