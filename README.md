@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Priyanshu24005/DSA/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Priyanshu24005/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Priyanshu24005/DSA/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Priyanshu24005/DSA/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Priyanshu24005/DSA/tree/master/0367-valid-perfect-square) |
 | [1492-the-kth-factor-of-n](https://github.com/Priyanshu24005/DSA/tree/master/1492-the-kth-factor-of-n) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Priyanshu24005/DSA/tree/master/0231-power-of-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24005/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Priyanshu24005/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Priyanshu24005/DSA/tree/master/0367-valid-perfect-square) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Priyanshu24005/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
