@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu24005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0204-count-primes](https://github.com/Priyanshu24005/DSA/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu24005/DSA/tree/master/0485-max-consecutive-ones) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Priyanshu24005/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1572-matrix-diagonal-sum](https://github.com/Priyanshu24005/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu24005/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2404-most-frequent-even-element](https://github.com/Priyanshu24005/DSA/tree/master/2404-most-frequent-even-element) |
