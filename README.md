@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu24005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0204-count-primes](https://github.com/Priyanshu24005/DSA/tree/master/0204-count-primes) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu24005/DSA/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/Priyanshu24005/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Priyanshu24005/DSA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Priyanshu24005/DSA/tree/master/0941-valid-mountain-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Priyanshu24005/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -98,5 +99,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Priyanshu24005/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Priyanshu24005/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
