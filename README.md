@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Priyanshu24005/DSA/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Priyanshu24005/DSA/tree/master/0941-valid-mountain-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Priyanshu24005/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1480-running-sum-of-1d-array](https://github.com/Priyanshu24005/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Priyanshu24005/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu24005/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2404-most-frequent-even-element](https://github.com/Priyanshu24005/DSA/tree/master/2404-most-frequent-even-element) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Priyanshu24005/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Priyanshu24005/DSA/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Priyanshu24005/DSA/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
