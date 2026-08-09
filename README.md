@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu24005/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Priyanshu24005/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Priyanshu24005/DSA/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/Priyanshu24005/DSA/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu24005/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Priyanshu24005/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Priyanshu24005/DSA/tree/master/0724-find-pivot-index) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Priyanshu24005/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Priyanshu24005/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Priyanshu24005/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
