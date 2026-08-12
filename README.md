@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Priyanshu24005/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Priyanshu24005/DSA/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Priyanshu24005/DSA/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Priyanshu24005/DSA/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/Priyanshu24005/DSA/tree/master/0941-valid-mountain-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Priyanshu24005/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Priyanshu24005/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyanshu24005/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Priyanshu24005/DSA/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/Priyanshu24005/DSA/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Priyanshu24005/DSA/tree/master/0912-sort-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyanshu24005/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Priyanshu24005/DSA/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Priyanshu24005/DSA/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,4 +145,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyanshu24005/DSA/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyanshu24005/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyanshu24005/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyanshu24005/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyanshu24005/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyanshu24005/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
