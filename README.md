@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priyanshu24005/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Priyanshu24005/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Priyanshu24005/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Priyanshu24005/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Priyanshu24005/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Priyanshu24005/DSA/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu24005/DSA/tree/master/0238-product-of-array-except-self) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Priyanshu24005/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyanshu24005/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Priyanshu24005/DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Priyanshu24005/DSA/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Priyanshu24005/DSA/tree/master/0202-happy-number) |
 | [0905-sort-array-by-parity](https://github.com/Priyanshu24005/DSA/tree/master/0905-sort-array-by-parity) |
 ## String
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Priyanshu24005/DSA/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Priyanshu24005/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Priyanshu24005/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Priyanshu24005/DSA/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/Priyanshu24005/DSA/tree/master/0905-sort-array-by-parity) |
