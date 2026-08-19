@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Priyanshu24005/DSA/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Priyanshu24005/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Priyanshu24005/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu24005/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Priyanshu24005/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Priyanshu24005/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Priyanshu24005/DSA/tree/master/0485-max-consecutive-ones) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Priyanshu24005/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu24005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Priyanshu24005/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu24005/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/Priyanshu24005/DSA/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Priyanshu24005/DSA/tree/master/1089-duplicate-zeros) |
 ## String
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Priyanshu24005/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Priyanshu24005/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu24005/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Priyanshu24005/DSA/tree/master/0645-set-mismatch) |
 | [2351-first-letter-to-appear-twice](https://github.com/Priyanshu24005/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Priyanshu24005/DSA/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanshu24005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Priyanshu24005/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu24005/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Priyanshu24005/DSA/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Priyanshu24005/DSA/tree/master/0704-binary-search) |
 ## Recursion
@@ -193,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Priyanshu24005/DSA/tree/master/0912-sort-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu24005/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Priyanshu24005/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
