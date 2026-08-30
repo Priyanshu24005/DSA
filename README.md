@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Priyanshu24005/DSA/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/Priyanshu24005/DSA/tree/master/0941-valid-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/Priyanshu24005/DSA/tree/master/1089-duplicate-zeros) |
+| [1095-find-in-mountain-array](https://github.com/Priyanshu24005/DSA/tree/master/1095-find-in-mountain-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Priyanshu24005/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Priyanshu24005/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Priyanshu24005/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Priyanshu24005/DSA/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Priyanshu24005/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyanshu24005/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Priyanshu24005/DSA/tree/master/1095-find-in-mountain-array) |
 ## Recursion
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Priyanshu24005/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Priyanshu24005/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/Priyanshu24005/DSA/tree/master/1095-find-in-mountain-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -241,4 +244,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Priyanshu24005/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Priyanshu24005/DSA/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
