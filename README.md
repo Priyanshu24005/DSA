@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Priyanshu24005/DSA/tree/master/1095-find-in-mountain-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Priyanshu24005/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Priyanshu24005/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priyanshu24005/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1572-matrix-diagonal-sum](https://github.com/Priyanshu24005/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Priyanshu24005/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu24005/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Priyanshu24005/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Priyanshu24005/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Priyanshu24005/DSA/tree/master/1095-find-in-mountain-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Priyanshu24005/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Recursion
 |  |
 | ------- |
