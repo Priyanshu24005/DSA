@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Priyanshu24005/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Priyanshu24005/DSA/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyanshu24005/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Priyanshu24005/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1492-the-kth-factor-of-n](https://github.com/Priyanshu24005/DSA/tree/master/1492-the-kth-factor-of-n) |
 ## Two Pointers
 |  |
@@ -305,4 +306,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Priyanshu24005/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Priyanshu24005/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Priyanshu24005/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Priyanshu24005/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
